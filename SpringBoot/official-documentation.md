@@ -9,5 +9,11 @@
 ## 8 [构建工具]()
 ## 9 [操作指南]()
 
-
+<details>
+  <summary>点击时的区域标题</summary>
+  ```bash
+  echo "hello shell"
+  echo "hello python"
+  ```
+</details>
 
