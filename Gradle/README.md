@@ -1,5 +1,5 @@
 # 目录
-## 1. [官方文档](https://docs.gradle.org/current/userguide/userguide.html)
+## 1. [官方文档](https://github.com/Sev-Night/source-code-reading/blob/main/Gradle/official-documentation.md)
 ## 2. [源码](https://github.com/gradle/gradle)
 ### 2.1 []()
 ### 2.2 []()
