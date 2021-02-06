@@ -10,5 +10,5 @@
 - 4.2[添加Classpath依赖](https://docs.spring.io/spring-boot/docs/current/reference/html/getting-started.html#getting-started-first-application-dependencies)
 - 4.3[写代码](https://docs.spring.io/spring-boot/docs/current/reference/html/getting-started.html#getting-started-first-application-code)
 - 4.4[运行示例](https://docs.spring.io/spring-boot/docs/current/reference/html/getting-started.html#getting-started-first-application-run)
-    +4.5[创建可执行Jar包](https://docs.spring.io/spring-boot/docs/current/reference/html/getting-started.html#getting-started-first-application-executable-jar)
+    + 4.5[创建可执行Jar包](https://docs.spring.io/spring-boot/docs/current/reference/html/getting-started.html#getting-started-first-application-executable-jar)
 #### 5 [接下来的阅读内容](https://docs.spring.io/spring-boot/docs/current/reference/html/getting-started.html#getting-started-whats-next)
