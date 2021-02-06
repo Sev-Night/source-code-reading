@@ -1,0 +1,5 @@
+#### 1 [安装CLI](https://docs.spring.io/spring-boot/docs/current/reference/html/spring-boot-cli.html#cli-installation)
+#### 2 [使用CLI](https://docs.spring.io/spring-boot/docs/current/reference/html/spring-boot-cli.html#cli-using-the-cli)
+#### 3 [使用Groovy Beans DSL部署应用](https://docs.spring.io/spring-boot/docs/current/reference/html/spring-boot-cli.html#cli-groovy-beans-dsl)
+#### 4 [使用settings.xml配置CLI](https://docs.spring.io/spring-boot/docs/current/reference/html/spring-boot-cli.html#cli-maven-settings)
+#### 5 [接下来阅读的内容](https://docs.spring.io/spring-boot/docs/current/reference/html/spring-boot-cli.html#cli-whats-next)
