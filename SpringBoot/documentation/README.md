@@ -4,7 +4,7 @@
 ## 3 [使用Spring Boot](https://github.com/Sev-Night/source-code-reading/blob/main/SpringBoot/documentation/using-spring-boot.md)
 ## 4 [Spring Boot的特性](https://github.com/Sev-Night/source-code-reading/blob/main/SpringBoot/documentation/spring-boot-features.md)
 ## 5 [Spring Boot Actuator](https://github.com/Sev-Night/source-code-reading/blob/main/SpringBoot/documentation/spring-boot-actuator.md)
-## 6 [部署Spring Boot 应用]()
+## 6 [部署Spring Boot 应用](https://github.com/Sev-Night/source-code-reading/blob/main/SpringBoot/documentation/deploying-spring-boot-applications.md)
 ## 7 [Spring Boot CLI 客户端]()
 ## 8 [构建工具]()
 ## 9 [操作指南]()
