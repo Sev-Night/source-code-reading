@@ -1,10 +1,13 @@
 #### 1 [SpringApplication](https://docs.spring.io/spring-boot/docs/current/reference/html/spring-boot-features.html#boot-features-spring-application)
 - 1.1 [启动失败]()
-- 1.2 []()
-- 1.3 []()
-- 1.4 []()
-- 1.5 []()
-- 1.6 []()
+- 1.2 [懒加载]()
+- 1.3 [自定义Banner]()
+- 1.4 [自定义SpringApplication]()
+- 1.5 [流式构建器API]()
+- 1.6 [应用可用性]()
+    + 1.6.1 Liveness 状态
+    + 1.6.2 就绪状态
+    + 1.6.3 管理应用可用性状态
 - 1.7 []()
 - 1.8 []()
 - 1.9 []()
