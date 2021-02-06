@@ -93,6 +93,14 @@
 - 10.5 [Actuator安全](https://docs.spring.io/spring-boot/docs/current/reference/html/spring-boot-features.html#boot-features-security-actuator)
 
 #### 11 [使用SQL数据库](https://docs.spring.io/spring-boot/docs/current/reference/html/spring-boot-features.html#boot-features-sql)
+- 11.1 [配置DataSource](https://docs.spring.io/spring-boot/docs/current/reference/html/spring-boot-features.html#boot-features-configure-datasource)
+- 11.2 [使用JdbcTemplate](https://docs.spring.io/spring-boot/docs/current/reference/html/spring-boot-features.html#boot-features-using-jdbc-template)
+- 11.3 [JPA 和 Spring Data JPA](https://docs.spring.io/spring-boot/docs/current/reference/html/spring-boot-features.html#boot-features-jpa-and-spring-data)
+- 11.4 [Spring Data JDBC](https://docs.spring.io/spring-boot/docs/current/reference/html/spring-boot-features.html#boot-features-data-jdbc)
+- 11.5 [使用H2的web控制台](https://docs.spring.io/spring-boot/docs/current/reference/html/spring-boot-features.html#boot-features-sql-h2-console)
+- 11.6 [使用JOOQ SQL Dialect](https://docs.spring.io/spring-boot/docs/current/reference/html/spring-boot-features.html#boot-features-jooq)
+- 11.7 [使用R2DBC](https://docs.spring.io/spring-boot/docs/current/reference/html/spring-boot-features.html#boot-features-r2dbc)
+
 #### 12 [使用NoSQL的技术](https://docs.spring.io/spring-boot/docs/current/reference/html/spring-boot-features.html#boot-features-nosql)
 #### 13 [缓存](https://docs.spring.io/spring-boot/docs/current/reference/html/spring-boot-features.html#boot-features-caching)
 #### 14 [消息](https://docs.spring.io/spring-boot/docs/current/reference/html/spring-boot-features.html#boot-features-messaging)
