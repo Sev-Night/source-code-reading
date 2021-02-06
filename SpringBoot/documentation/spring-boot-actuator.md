@@ -63,6 +63,6 @@
 - 8.1 [自定义HTTP追踪](https://docs.spring.io/spring-boot/docs/current/reference/html/production-ready-features.html#production-ready-http-tracing-custom)
 #### 9 [过程控制](https://docs.spring.io/spring-boot/docs/current/reference/html/production-ready-features.html#production-ready-process-monitoring)
 - 9.1 [拓展配置](https://docs.spring.io/spring-boot/docs/current/reference/html/production-ready-features.html#production-ready-process-monitoring-configuration)
-- 9.2 [](https://docs.spring.io/spring-boot/docs/current/reference/html/production-ready-features.html#production-ready-process-monitoring-programmatically)
+- 9.2 [编程式配置](https://docs.spring.io/spring-boot/docs/current/reference/html/production-ready-features.html#production-ready-process-monitoring-programmatically)
 #### 10 [云计算支持](https://docs.spring.io/spring-boot/docs/current/reference/html/production-ready-features.html#production-ready-cloudfoundry)
 #### 11 [接下来阅读的内容](https://docs.spring.io/spring-boot/docs/current/reference/html/production-ready-features.html#production-ready-whats-next)
