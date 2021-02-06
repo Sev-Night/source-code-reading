@@ -11,9 +11,9 @@
 
 ***
 # 附录
-## [Application Properties 应用属性]()
-## [配置元数据]()
-## [自动配置类]()
-## [测试自动配置注解]()
-## [可执行Jar包]()
-## [依赖版本]()
+## [Application Properties 应用属性](https://docs.spring.io/spring-boot/docs/current/reference/html/appendix-application-properties.html#common-application-properties)
+## [配置元数据](https://docs.spring.io/spring-boot/docs/current/reference/html/appendix-configuration-metadata.html#configuration-metadata)
+## [自动配置类](https://docs.spring.io/spring-boot/docs/current/reference/html/appendix-auto-configuration-classes.html#auto-configuration-classes)
+## [测试自动配置注解](https://docs.spring.io/spring-boot/docs/current/reference/html/appendix-test-auto-configuration.html#test-auto-configuration)
+## [可执行Jar包](https://docs.spring.io/spring-boot/docs/current/reference/html/appendix-executable-jar-format.html#executable-jar)
+## [依赖版本](https://docs.spring.io/spring-boot/docs/current/reference/html/appendix-dependency-versions.html#dependency-versions)
