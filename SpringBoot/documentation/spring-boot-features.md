@@ -80,7 +80,18 @@
 
 #### 8 [优雅关闭](https://docs.spring.io/spring-boot/docs/current/reference/html/spring-boot-features.html#boot-features-graceful-shutdown)
 #### 9 [RSocket协议](https://docs.spring.io/spring-boot/docs/current/reference/html/spring-boot-features.html#boot-features-rsocket)
+- 9.1 [RSocket策略自动配置](https://docs.spring.io/spring-boot/docs/current/reference/html/spring-boot-features.html#boot-features-rsocket-strategies-auto-configuration)
+- 9.2 [RSocket服务器自动配置](https://docs.spring.io/spring-boot/docs/current/reference/html/spring-boot-features.html#boot-features-rsocket-server-auto-configuration)
+- 9.3 [Spring Messaging RSocket支持](https://docs.spring.io/spring-boot/docs/current/reference/html/spring-boot-features.html#boot-features-rsocket-messaging)
+- 9.4 [使用RSocketRequester调用RSocket 服务](https://docs.spring.io/spring-boot/docs/current/reference/html/spring-boot-features.html#boot-features-rsocket-requester)
+
 #### 10 [安全](https://docs.spring.io/spring-boot/docs/current/reference/html/spring-boot-features.html#boot-features-security)
+- 10.1 [MVC 安全](https://docs.spring.io/spring-boot/docs/current/reference/html/spring-boot-features.html#boot-features-security-mvc)
+- 10.2 [WebFLux安全](https://docs.spring.io/spring-boot/docs/current/reference/html/spring-boot-features.html#boot-features-security-webflux)
+- 10.3 [OAuth2](https://docs.spring.io/spring-boot/docs/current/reference/html/spring-boot-features.html#boot-features-security-oauth2)
+- 10.4 [SAML 2.0](https://docs.spring.io/spring-boot/docs/current/reference/html/spring-boot-features.html#boot-features-security-saml)
+- 10.5 [Actuator安全](https://docs.spring.io/spring-boot/docs/current/reference/html/spring-boot-features.html#boot-features-security-actuator)
+
 #### 11 [使用SQL数据库](https://docs.spring.io/spring-boot/docs/current/reference/html/spring-boot-features.html#boot-features-sql)
 #### 12 [使用NoSQL的技术](https://docs.spring.io/spring-boot/docs/current/reference/html/spring-boot-features.html#boot-features-nosql)
 #### 13 [缓存](https://docs.spring.io/spring-boot/docs/current/reference/html/spring-boot-features.html#boot-features-caching)
