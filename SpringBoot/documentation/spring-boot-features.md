@@ -40,12 +40,13 @@
     + 2.7.3 [启动@ConfigurationProperties-annotated 类型](https://docs.spring.io/spring-boot/docs/current/reference/html/spring-boot-features.html#boot-features-external-config-enabling)
     + 2.7.4 [使用@ConfigurationProperties-annotated 类型](https://docs.spring.io/spring-boot/docs/current/reference/html/spring-boot-features.html#boot-features-external-config-using)
     + 2.7.5 [第三方配置](https://docs.spring.io/spring-boot/docs/current/reference/html/spring-boot-features.html#boot-features-external-config-3rd-party-configuration)
+    + 2.7.6 [宽松绑定](https://docs.spring.io/spring-boot/docs/current/reference/html/spring-boot-features.html#boot-features-external-config-relaxed-binding)
         - [关联Map](https://docs.spring.io/spring-boot/docs/current/reference/html/spring-boot-features.html#boot-features-external-config-relaxed-binding-maps)
-    + 2.7.6 []()
-    + 2.7.7 []()
-    + 2.7.8 []()
-    + 2.7.9 []()
-    + 2.7.10 []()
+        - [从环境变量中关联](https://docs.spring.io/spring-boot/docs/current/reference/html/spring-boot-features.html#boot-features-external-config-relaxed-binding-from-environment-variables)
+    + 2.7.7 [合并复杂类型](https://docs.spring.io/spring-boot/docs/current/reference/html/spring-boot-features.html#boot-features-external-config-complex-type-merge)
+    + 2.7.8 [属性转换](https://docs.spring.io/spring-boot/docs/current/reference/html/spring-boot-features.html#boot-features-external-config-conversion)
+    + 2.7.9 [@ConfigurationProperties校验](https://docs.spring.io/spring-boot/docs/current/reference/html/spring-boot-features.html#boot-features-external-config-validation)
+    + 2.7.10 [@ConfigurationProperties vs. @Value](https://docs.spring.io/spring-boot/docs/current/reference/html/spring-boot-features.html#boot-features-external-config-vs-value)
 
 
 #### 3 [配置文件](https://docs.spring.io/spring-boot/docs/current/reference/html/spring-boot-features.html#boot-features-profiles)
