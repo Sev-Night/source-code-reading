@@ -1,8 +1,8 @@
 # 目录
-#### 1 [Bus](https://github.com/Sev-Night/source-code-reading/blob/main/SpringCloud/documentation/spring-cloud-bus.md)
-#### 2 [Circuit Breaker](https://github.com/Sev-Night/source-code-reading/blob/main/SpringCloud/documentation/spring-cloud-circuit-breaker.md)
-#### 3 [Config](https://github.com/Sev-Night/source-code-reading/blob/main/SpringCloud/documentation/spring-cloud-config.md)
-#### 4 [Eureka](https://github.com/Sev-Night/source-code-reading/blob/main/SpringCloud/documentation/spring-cloud-eureka.md)
+#### 1 [Bus消息总线](https://github.com/Sev-Night/source-code-reading/blob/main/SpringCloud/documentation/spring-cloud-bus.md)
+#### 2 [Circuit Breaker熔断器](https://github.com/Sev-Night/source-code-reading/blob/main/SpringCloud/documentation/spring-cloud-circuit-breaker.md)
+#### 3 [Config配置中心](https://github.com/Sev-Night/source-code-reading/blob/main/SpringCloud/documentation/spring-cloud-config.md)
+#### 4 [Eureka注册中心](https://github.com/Sev-Night/source-code-reading/blob/main/SpringCloud/documentation/spring-cloud-eureka.md)
 #### 5 [Gateway](https://github.com/Sev-Night/source-code-reading/blob/main/SpringCloud/documentation/spring-cloud-gateway.md)
 #### 6 [Kubernetes](https://github.com/Sev-Night/source-code-reading/blob/main/SpringCloud/documentation/spring-cloud-kubernetes.md)
 #### 7 [OpenFeign](https://github.com/Sev-Night/source-code-reading/blob/main/SpringCloud/documentation/spring-cloud-openfeign.md)
@@ -19,5 +19,7 @@
 ***
 # 附录
 #### 博客
+- [SpringCloud系列教程 | 第八篇：Spring Cloud Bus 消息总线](https://www.cnblogs.com/babycomeon/p/11141160.html)
+- [SpringCloud之Eureka注册中心原理及其搭建](https://www.cnblogs.com/jing99/p/11576133.html)
 - [Spring Cloud 系列之 Spring Cloud Stream](https://www.cnblogs.com/fengzheng/p/11576661.html)
-- [使用Spring REST Docs 编写接口文档](https://blog.csdn.net/ljh_learn_from_base/article/details/95866258)
+- [使用Spring REST Docs 编写接口文档](https://blog.csdn.net/ljh_learn_from_base/article/details/95866258
