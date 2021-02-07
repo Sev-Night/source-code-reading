@@ -26,4 +26,4 @@
 - [你好spring-cloud-kubernetes](https://blog.csdn.net/boling_cavalry/article/details/91351411)
 - [Spring Cloud Sleuth超详细实战](https://www.cnblogs.com/lishiqi-blog/p/11898841.html)
 - [Spring Cloud Task 简单示例](https://blog.csdn.net/peterwanghao/article/details/83033485)
-
+- [SpringCloud gateway （史上最全）](https://www.cnblogs.com/crazymakercircle/p/11704077.html)
