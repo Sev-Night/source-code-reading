@@ -1,5 +1,5 @@
 # 目录
-#### [前言]()
+#### [前言](https://github.com/Sev-Night/source-code-reading/blob/main/Hibernates/documentation/preface.md)
 #### [系统条件]()
 #### 1. [架构](https://github.com/Sev-Night/source-code-reading/blob/main/Hibernates/documentation/architecture.md)
 #### 2. [领域模型](https://github.com/Sev-Night/source-code-reading/blob/main/Hibernates/documentation/domain-model.md)
