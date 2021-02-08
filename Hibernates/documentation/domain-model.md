@@ -11,7 +11,7 @@
 - 2.9. [自然Id](https://docs.jboss.org/hibernate/stable/orm/userguide/html_single/Hibernate_User_Guide.html#naturalid)
 - 2.10. [动态模型](https://docs.jboss.org/hibernate/stable/orm/userguide/html_single/Hibernate_User_Guide.html#dynamic-model)
 - 2.11. [继承](https://docs.jboss.org/hibernate/stable/orm/userguide/html_single/Hibernate_User_Guide.html#entity-inheritance)
-- 2.12. [不可变性]()
+- 2.12. [不可变性](https://docs.jboss.org/hibernate/stable/orm/userguide/html_single/Hibernate_User_Guide.html#entity-immutability)
 
 
 
