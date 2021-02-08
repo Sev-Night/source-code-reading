@@ -1,7 +1,7 @@
 
 # 目录
 #### 1. 概述
-#####  1.1 [前言](https://docs.spring.io/spring-cloud-stream/docs/3.1.1/reference/html/spring-cloud-stream.html#spring-cloud-stream-reference)
+##### 1.1 [前言](https://docs.spring.io/spring-cloud-stream/docs/3.1.1/reference/html/spring-cloud-stream.html#spring-cloud-stream-reference)
 ##### 1.2 [3.0新特性](https://docs.spring.io/spring-cloud-stream/docs/3.1.1/reference/html/spring-cloud-stream.html#_whats_new_in_3_0)
 ##### 1.3 [Spring Cloud Stream简介](https://docs.spring.io/spring-cloud-stream/docs/3.1.1/reference/html/spring-cloud-stream.html#spring-cloud-stream-overview-introducing)
 ##### 1.4 [主要概念](https://docs.spring.io/spring-cloud-stream/docs/3.1.1/reference/html/spring-cloud-stream.html#_main_concepts)
@@ -25,7 +25,7 @@
 - 2.2.7. [死信队列处理](https://docs.spring.io/spring-cloud-stream-binder-rabbit/docs/3.1.1/reference/html/spring-cloud-stream-binder-rabbit.html#rabbit-dlq-processing)
 - 2.2.8. [RabbitMQ Binder的分区](https://docs.spring.io/spring-cloud-stream-binder-rabbit/docs/3.1.1/reference/html/spring-cloud-stream-binder-rabbit.html#_partitioning_with_the_rabbitmq_binder)
 ##### 2.2 [附录](https://docs.spring.io/spring-cloud-stream-binder-rabbit/docs/3.1.1/reference/html/spring-cloud-stream-binder-rabbit.html#_appendices)
-#### 3. Apache Kafka Binder
-#### 4. Apache Kafaka Streams Binder
-#### 5. 其他Binders
-#### 6. Spring Cloud Stream的示例
+#### 3. [Apache Kafka Binder](https://docs.spring.io/spring-cloud-stream-binder-kafka/docs/3.1.1/reference/html/spring-cloud-stream-binder-kafka.html#_kafka_streams_binder)
+#### 4. [Apache Kafaka Streams Binder](https://docs.spring.io/spring-cloud-stream-binder-kafka/docs/3.1.1/reference/html/spring-cloud-stream-binder-kafka.html#_kafka_streams_binder)
+#### 5. [其他Binders](https://docs.spring.io/spring-cloud-stream/docs/3.1.1/reference/html/binders.html#binders)
+#### 6. [Spring Cloud Stream的示例](https://github.com/spring-cloud/spring-cloud-stream-samples/)
