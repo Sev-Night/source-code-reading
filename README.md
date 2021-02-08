@@ -4,7 +4,7 @@
 ### [Spring](https://github.com/Sev-Night/source-code-reading/tree/main/Spring)
 ### [Spring Boot](https://github.com/Sev-Night/source-code-reading/tree/main/SpringBoot)
 ### [Spring Cloud](https://github.com/Sev-Night/source-code-reading/tree/main/SpringCloud)
-### [MyBatis](https://github.com/Sev-Night/source-code-reading/tree/main/MyBatis)
+### [MyBatis](https://github.com/Sev-Night/source-code-reading/tree/main/Mybatis)
 ### [Hibernate](https://github.com/Sev-Night/source-code-reading/tree/main/Hibernate)
 ### [Dubbo](https://github.com/Sev-Night/source-code-reading/tree/main/Dubbo)
 ### [Netty](https://github.com/Sev-Night/source-code-reading/tree/main/Netty)
