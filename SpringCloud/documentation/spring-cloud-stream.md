@@ -15,6 +15,16 @@
 ##### 1.12 [Binder的实现](https://docs.spring.io/spring-cloud-stream/docs/3.1.1/reference/html/spring-cloud-stream.html#_binder_implementations)
 
 #### 2. Rabbit MQ Binder
+##### 2.1 [参考指南](https://docs.spring.io/spring-cloud-stream-binder-rabbit/docs/3.1.1/reference/html/spring-cloud-stream-binder-rabbit.html#_reference_guide)
+- 2.2.1. [使用](https://docs.spring.io/spring-cloud-stream-binder-rabbit/docs/3.1.1/reference/html/spring-cloud-stream-binder-rabbit.html#_usage)
+- 2.2.2. [RabbitMQ Binder概述](https://docs.spring.io/spring-cloud-stream-binder-rabbit/docs/3.1.1/reference/html/spring-cloud-stream-binder-rabbit.html#_rabbitmq_binder_overview)
+- 2.2.3. [参数配置](https://docs.spring.io/spring-cloud-stream-binder-rabbit/docs/3.1.1/reference/html/spring-cloud-stream-binder-rabbit.html#_configuration_options)
+- 2.2.4. [使用存在的Queues/Exchanges](https://docs.spring.io/spring-cloud-stream-binder-rabbit/docs/3.1.1/reference/html/spring-cloud-stream-binder-rabbit.html#_using_existing_queuesexchanges)
+- 2.2.5. [RabbitMQ Binder重试](https://docs.spring.io/spring-cloud-stream-binder-rabbit/docs/3.1.1/reference/html/spring-cloud-stream-binder-rabbit.html#_retry_with_the_rabbitmq_binder)
+- 2.2.6. [Error Channels](https://docs.spring.io/spring-cloud-stream-binder-rabbit/docs/3.1.1/reference/html/spring-cloud-stream-binder-rabbit.html#rabbit-error-channels)
+- 2.2.7. [死信队列处理](https://docs.spring.io/spring-cloud-stream-binder-rabbit/docs/3.1.1/reference/html/spring-cloud-stream-binder-rabbit.html#rabbit-dlq-processing)
+- 2.2.8. [RabbitMQ Binder的分区](https://docs.spring.io/spring-cloud-stream-binder-rabbit/docs/3.1.1/reference/html/spring-cloud-stream-binder-rabbit.html#_partitioning_with_the_rabbitmq_binder)
+##### 2.2 [附录](https://docs.spring.io/spring-cloud-stream-binder-rabbit/docs/3.1.1/reference/html/spring-cloud-stream-binder-rabbit.html#_appendices)
 #### 3. Apache Kafka Binder
 #### 4. Apache Kafaka Streams Binder
 #### 5. 其他Binders
