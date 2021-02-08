@@ -1,7 +1,7 @@
 # 目录
 #### [前言]()
 #### [系统条件]()
-#### 1. [架构]()
+#### 1. [架构](https://github.com/Sev-Night/source-code-reading/blob/main/Hibernates/documentation/architecture.md)
 #### 2. [领域模型](https://github.com/Sev-Night/source-code-reading/blob/main/Hibernates/documentation/domain-model.md)
 #### 3. [Bootstrap]()
 #### 4. [数据库结构生成]()
