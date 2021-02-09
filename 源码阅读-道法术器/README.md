@@ -47,6 +47,7 @@
 # 附录
 #### 博客
 - [IDEA阅读源码-必备插件](https://my.oschina.net/lihua20103181/blog/4882956)
+- [知乎问答-servlet的本质是什么，它是如何工作的？](https://www.zhihu.com/question/21416727)
 
 #### 相关协议、标准及技术
 - [Arthas Java应用诊断利器](https://arthas.aliyun.com/zh-cn/)| [源码](https://github.com/alibaba/arthas)
