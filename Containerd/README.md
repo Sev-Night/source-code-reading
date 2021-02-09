@@ -6,3 +6,8 @@
 
 # 附录
 #### 博客
+
+
+#### 相关协议及技术
+- [runc（用于根据OCI规范生成与运行容器的CLI工具）](https://github.com/opencontainers/runc)
+- [runtime-spec(为操作系统过程与应用容器的标准制定规范)](https://github.com/opencontainers/runtime-spec/blob/master/spec.md)
