@@ -53,3 +53,4 @@
 
 #### 相关协议、标准及技术
 - [Arthas Java应用诊断利器](https://arthas.aliyun.com/zh-cn/)| [源码](https://github.com/alibaba/arthas)
+- [TestNG 自动化测试框架](https://testng.org/doc/)
